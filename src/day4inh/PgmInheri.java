@@ -12,6 +12,6 @@ public class PgmInheri {
 
 	{
 		System.out.println("Circle is");
-		System.out.println(5.14*r*r);
+		System.out.println(3.14*r*r);
 	}
 }
