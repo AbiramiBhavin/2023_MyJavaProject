@@ -7,7 +7,7 @@ public class PgmOverlod {
 		
 	PgmOverlod p=new PgmOverlod();
 	cubeVol(3);
-	p.cubeVol(9,6);
+	p.cubeVol(9,6f);
 
 	}
 	public static void cubeVol(int a)
@@ -15,10 +15,10 @@ public class PgmOverlod {
 		System.out.println("Volume of cube:");
 		System.out.println(a*a*a);
 	}// Here overloaded CubeVol method with different arguments and different access specifier and accessed non static through object
-	protected void cubeVol(int a,int b) 
+	protected void cubeVol(int a,float b) 
 	{
 		System.out.println("Volume of cube:");
-		System.out.println(a*a*a);
+		System.out.println(a*b);
 	}
 	
 
