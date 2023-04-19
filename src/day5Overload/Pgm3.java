@@ -10,7 +10,7 @@ o.main((short)2,(byte)7,(short)4); // since java executes highest data type we n
 	}
 	void main(byte a,short b) // byte and short cannot be overloaded as we are passing int values and while exe compiler chooses the highest memory first that is int valkues 
 	{
-		System.out.println("MUL IS ");
+		System.out.println("MULss IS ");
 		System.out.println(a*b);
 	}
 	void main(short c,byte d,short e)
