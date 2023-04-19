@@ -4,7 +4,7 @@ public class accclass {
 
 	public static void add(int e, int f)
 	{
-		System.out.println("ADD is");
+		System.out.println("ADDhs is");
 		System.out.println(e+f);
 	}
 	private static void sub(int g, int h) // Private accesses only in the class
