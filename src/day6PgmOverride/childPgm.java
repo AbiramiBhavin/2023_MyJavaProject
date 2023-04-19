@@ -13,7 +13,7 @@ public class childPgm extends OverridePgm {
 		System.out.println("Child Class Program");
 		System.out.println("Volume of cuboid");
 		System.out.println(a*b);
-		System.out.println("Perimeter of Cuboid is");
+		System.out.println("Perimeterss of Cuboid is");
 		System.out.println(12*a);
 		System.out.println("Area of Rectangle");
 		System.out.println(a*b);
