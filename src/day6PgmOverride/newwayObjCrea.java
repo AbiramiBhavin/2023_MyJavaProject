@@ -12,7 +12,7 @@ p.display();
 	public void cube(int a, int b) 
 	{
 		System.out.println("out Program");
-		System.out.println(a*b);
+		System.out.println(a*b*a);
 		
 		
 	}

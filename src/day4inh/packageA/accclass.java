@@ -7,7 +7,7 @@ public class accclass {
 		System.out.println("ADD is");
 		System.out.println(e+f);
 	}
-	private static void sub(int g, int h)
+	private static void sub(int g, int h) // Private accesses only in the class
 	{
 		System.out.println("SUB is");
 		System.out.println(g-h);
