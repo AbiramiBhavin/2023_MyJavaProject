@@ -16,6 +16,10 @@ public class Thiskw {
 		// TODO Auto-generated method stub
 		Thiskw t=new Thiskw(1,4);// one of creating and passing values inside obj
 		t.display();
+		//instead of calling action func here we called in consrtuctor for easy exec and compilation
+		
+		//t.action();
+		
 		}
 	
 	public void add()
