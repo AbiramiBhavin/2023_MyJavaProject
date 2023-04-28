@@ -18,7 +18,7 @@ public class Cmpinelseif {
 		{
 			System.out.println("first value is greater");
 		}
-		else if(b>a && b>c)
+		else if(b>a && b>c) // we can also write this pgm in if if if but exe if slow in that by using else if exe is fast
 		{
 			System.out.println("second value is greater");
 		}
@@ -26,7 +26,7 @@ public class Cmpinelseif {
 		{
 			System.out.println("third value is greater");
 		}
-		else if(a==b && b==c)
+		else if(a==b && b==c &c==a)
 		{
 			System.out.println("Same values");
 		}
