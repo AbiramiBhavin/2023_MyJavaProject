@@ -19,7 +19,7 @@ public class pgm2 {
 			}
 			a=a+1;
 		}
-		System.out.println("End of Pgm");
+		System.out.println("End of Pg");
 
 	}
 
