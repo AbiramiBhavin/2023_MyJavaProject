@@ -19,7 +19,7 @@ public class extraPgm extends childPgm {
 		//here i have override but the object is created for prev class child class so child op is generated
 		
 	}
-	public static void display()
+	public void display()
 	{
 		System.out.println("DISPLAY ANS");
 	}
