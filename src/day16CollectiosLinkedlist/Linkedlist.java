@@ -1,4 +1,4 @@
-package CollectiosLinkedlist;
+package day16CollectiosLinkedlist;
 import java.util.*;
 
 public class Linkedlist {
@@ -86,6 +86,24 @@ public class Linkedlist {
  {
 	 System.out.println("value is not present");
  }
+ 
+ //To check with the muliple values present in the list or not we use ContainsALL function This aslo returns boolean value
+ System.out.println("Enter the multiple value ot be checked");
+ int u=sc.nextInt();
+ int w=sc.nextInt();
+ int z=sc.nextInt();
+ if(a.containsAll(Arrays.asList(u,w,z))==true)
+ {
+	System.out.println("Value is present "); 
+ }
+ else
+ {
+	 System.out.println("value is not present");
+ }
+ //To check If the LIST is Empty
+ System.out.println("To check if the List is empty");
+ a.isEmpty();
+ System.out.println(a);
 	}                                                                                 
 
 }
