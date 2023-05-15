@@ -104,6 +104,9 @@ public class Linkedlist {
  System.out.println("To check if the List is empty");
  a.isEmpty();
  System.out.println(a.isEmpty());
-	}                                                                                 
+ //a.clear();// Ths is used to clear complete data
+ //System.out.println(a);
+	} 
+	
 
 }
