@@ -22,7 +22,9 @@ public class sets {
 				x.add("aa");
 				x.add("bb");
 				x.add("cc");
+				x.add("bb");
 				System.out.println(x);
+				
 				
 				
 			}
