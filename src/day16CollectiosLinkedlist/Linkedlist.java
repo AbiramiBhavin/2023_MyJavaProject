@@ -103,7 +103,7 @@ public class Linkedlist {
  //To check If the LIST is Empty
  System.out.println("To check if the List is empty");
  a.isEmpty();
- System.out.println(a);
+ System.out.println(a.isEmpty());
 	}                                                                                 
 
 }
